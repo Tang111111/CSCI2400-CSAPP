@@ -1,0 +1,10 @@
+
+pahse2.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	bf 6a fe be 48       	mov    $0x48befe6a,%edi
+   5:	68 72 13 40 00       	pushq  $0x401372
+   a:	c3                   	retq   
